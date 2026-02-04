@@ -1,5 +1,11 @@
 first line
 second line
+<<<<<<< HEAD
 fourth line
 five line
 six line
+=======
+third line
+4
+5
+>>>>>>> master
